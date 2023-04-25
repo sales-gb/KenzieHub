@@ -1,18 +1,17 @@
 # KenzieHub
 
-This academic project consists of an interface that aims to assist users in organizing their studies. By registering on the platform, users can access their profile page and add the technologies they are studying, as well as track their progress over time.
+Este projeto acadêmico consiste em uma interface que tem como objetivo auxiliar os usuários na organização dos seus estudos. Ao se cadastrar na plataforma, o usuário pode acessar sua página de perfil e cadastrar as tecnologias que está estudando, além de acompanhar seu progresso ao longo do tempo.
 
-One of the main features of the platform is the secure login, which allows users to quickly and easily access their profile page. Upon logging in, users are directed to the platform's home page, which displays the registered technologies and their progress in a clear and organized format.
+Uma das principais funcionalidades da plataforma é o login seguro, que permite que o usuário acesse a sua página de perfil de forma rápida e fácil. Ao se logar, o usuário é direcionado para a página inicial da plataforma, que apresenta as tecnologias cadastradas e o progresso de cada uma delas em um formato claro e organizado.
 
-To ensure the best user experience, the platform uses React's Context API to manage the application's states. In addition, integration with the API provided by the educational institution allows for relevant and up-to-date information about the registered technologies, making the progress tracking process even more efficient.
+Para garantir a melhor experiência do usuário, a plataforma utiliza o Context API do React para gerenciar os estados da aplicação. Além disso, a integração com a API fornecida pela instituição de ensino permite obter informações relevantes e atualizadas sobre as tecnologias cadastradas, o que torna o processo de acompanhamento do progresso ainda mais eficiente.
 
-In summary, the developed platform offers a practical and efficient solution for users who want to organize their studies and track their progress in a clear and objective way. With a secure login and intuitive features, the platform is an essential tool for those seeking to improve their academic and professional performance.
+Em suma, a plataforma desenvolvida oferece uma solução prática e eficiente para os usuários que desejam organizar seus estudos e acompanhar seu progresso de forma clara e objetiva. Com um login seguro e funcionalidades intuitivas, a plataforma é uma ferramenta essencial para quem busca melhorar o seu desempenho acadêmico e profissional.
+
+### Teste <a href="https://react-entrega-kenzie-hub-sales-gb.vercel.app/">aqui!</a> 😁 
 
 
-### Test it out <a href="https://react-entrega-kenzie-hub-sales-gb.vercel.app/">here!</a> 😁 
-
-
-## Below are some images of the app!!
+## Segue abaixo algumas imagens da aplicação!!
 
 
 ### Login
