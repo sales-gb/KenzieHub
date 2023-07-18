@@ -6,9 +6,7 @@ Uma das principais funcionalidades da plataforma é o login seguro, que permite 
 
 Para garantir a melhor experiência do usuário, a plataforma utiliza o Context API do React para gerenciar os estados da aplicação. Além disso, a integração com a API fornecida pela instituição de ensino permite obter informações relevantes e atualizadas sobre as tecnologias cadastradas, o que torna o processo de acompanhamento do progresso ainda mais eficiente.
 
-Em suma, a plataforma desenvolvida oferece uma solução prática e eficiente para os usuários que desejam organizar seus estudos e acompanhar seu progresso de forma clara e objetiva. Com um login seguro e funcionalidades intuitivas, a plataforma é uma ferramenta essencial para quem busca melhorar o seu desempenho acadêmico e profissional.
-
-### Teste <a href="https://react-entrega-kenzie-hub-sales-gb.vercel.app/">aqui!</a> 😁 
+Em suma, a plataforma desenvolvida oferece uma solução prática e eficiente para os usuários que desejam organizar seus estudos e acompanhar seu progresso de forma clara e objetiva. Com um login seguro e funcionalidades intuitivas, a plataforma é uma ferramenta essencial para quem busca melhorar o seu desempenho acadêmico e profissional. 
 
 
 ## Segue abaixo algumas imagens da aplicação!!
